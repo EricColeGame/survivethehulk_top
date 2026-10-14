@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "Survive The Hulk Wiki",
+    "shortName": "Survive The Hulk",
+    "tagline": "Survival Guides, Hulk Abilities, Hiding Spots & Hulkbuster Tips",
+    "description": "Your ultimate Survive The Hulk wiki: survivor tactics, Hulk abilities, hiding spots, Hulkbuster combat, and progression guides for the asymmetric multiplayer survival game on Roblox.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,22 +26,22 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Survive The Hulk Wiki - Tips, Gameplay & Survival Guide",
+      "description": "Explore Survive The Hulk with gameplay tips, survival strategies, monster guides, beginner help, and community updates in one easy-to-use fan resource."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Multiplayer Survival Horror",
+      "title": "Survive The Hulk Wiki",
+      "description": "Survive The Hulk is an asymmetric multiplayer survival game where one player becomes Hulk while others hide, escape, explore the facility, and fight back with Hulkbuster.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "6.6M+ Total Visits",
+        "81% Favorite Rating",
+        "3,990 Active Players",
+        "Updated Oct 9, 2026"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
+      "secondaryCta": "Survivor Tips",
+      "tertiaryCta": "Play on Roblox",
       "videoLabel": "Official media"
     },
     "updates": {
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Survive The Hulk?",
+      "description": "From your first round as a survivor to mastering the Hulk and the Hulkbuster, our community wiki has you covered with free, up-to-date guides.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,17 +379,17 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "Survive The Hulk Wiki",
+    "about": "Survive The Hulk Wiki is an independent fan-built guide hub covering survivor tactics, Hulk abilities, Hulkbuster combat, hiding spots, and essential game knowledge for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 Survive The Hulk Wiki. Not affiliated with Roblox or the Survive The Hulk developers.",
+    "description": "Asymmetric multiplayer survival horror on Roblox. One Hulk, many survivors, endless escapes.",
+    "playGame": "Play Survive The Hulk on Roblox",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "vvBuilder": "Community Resources",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Race Guides",
     "bossGuides": "Boss Guides",

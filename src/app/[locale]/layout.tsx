@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://survivethehulk.top";
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
@@ -25,10 +25,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     metadataBase: new URL(siteUrl),
     manifest: "/manifest.json",
-    title: { default: "VV: ULTIMATUM Wiki", template: "%s" },
-    description: "Complete VV: ULTIMATUM fan wiki with codes, bosses, builds, races, guides and progression walkthroughs.",
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    title: { default: "Survive The Hulk Wiki", template: "%s" },
+    description: "Complete Survive The Hulk fan wiki with survivor tactics, Hulk abilities, Hulkbuster combat, hiding spots, maps and progression walkthroughs.",
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, title: "Survive The Hulk Wiki", description: "Survive The Hulk fan wiki: gameplay tips, survival strategies, monster guides, and beginner help for the Roblox survival horror game.", images: [{ url: image, width: 984, height: 576, alt: "Survive The Hulk" }] },
+    twitter: { card: "summary_large_image", title: "Survive The Hulk Wiki", description: "Survive The Hulk fan wiki: gameplay tips, survival strategies, monster guides, and beginner help.", images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
