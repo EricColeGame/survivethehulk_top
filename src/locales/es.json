@@ -1,1 +1,516 @@
-{}
+{
+  "site": {
+    "name": "Sobrevive al Hulk Wiki",
+    "shortName": "Sobrevive al Hulk",
+    "tagline": "Guías de supervivencia, habilidades de Hulk, escondites y trucos del Hulkbuster",
+    "description": "Tu wiki definitiva de Sobrevive al Hulk: tácticas de superviviente, habilidades de Hulk, escondites, combate con el Hulkbuster y guías de progresión para el juego de supervivencia multijugador asimétrico de Roblox.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "mechanics": "Mecánicas",
+    "progression": "Progresión",
+    "modes": "Modos",
+    "community": "Comunidad",
+    "troubleshooting": "Problemas"
+  },
+  "home": {
+    "meta": {
+      "title": "Sobrevive al Hulk Wiki - Trucos, jugabilidad y guía de supervivencia",
+      "description": "Descubre Sobrevive al Hulk con trucos de jugabilidad, estrategias de supervivencia, guías del monstruo, ayuda para principiantes y novedades de la comunidad en un solo recurso de fans."
+    },
+    "hero": {
+      "eyebrow": "Terror y supervivencia multijugador",
+      "title": "Sobrevive al Hulk Wiki",
+      "description": "Sobrevive al Hulk es un juego de supervivencia multijugador asimétrico en el que un jugador se convierte en Hulk mientras los demás se esconden, escapan, exploran las instalaciones y contraatacan con el Hulkbuster.",
+      "stats": [
+        "Más de 6,6 M de visitas",
+        "81 % de valoración favorita",
+        "3.990 jugadores activos",
+        "Actualizado el 9 de octubre de 2026"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Trucos de superviviente",
+      "tertiaryCta": "Jugar en Roblox",
+      "videoLabel": "Contenido oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu camino en Sobrevive al Hulk",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende el ciclo de ronda, los objetivos de cada rol y las reglas de resistencia antes de tu primera persecución real como superviviente o como Hulk."
+        },
+        {
+          "number": "2",
+          "title": "Mejores personajes",
+          "description": "Compara los arquetipos de corredor, constructor, apoyo y tanque para encontrar el superviviente que encaja con tu forma de jugar."
+        },
+        {
+          "number": "3",
+          "title": "Cómo escapar",
+          "description": "Planifica dos rutas, rompe la línea de visión por conductos y ventanas, y mide tu sprint para que el Hulk nunca recorte la distancia."
+        },
+        {
+          "number": "4",
+          "title": "Cómo conseguir el Hulkbuster",
+          "description": "Compra, equipa y activa la armadura Hulkbuster en el momento justo para que tus Robux se conviertan en un contraataque real y no en una ronda perdida."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Cómo escapar",
+        "Habilidades de Hulk",
+        "Mejores escondites"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas para tu primera ronda de Sobrevive al Hulk, desde los objetivos de cada rol hasta la resistencia y los escondites básicos.",
+          "href": "/guide/survive-the-hulk-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo escapar del Hulk",
+          "description": "Planificación de rutas, trucos con conductos y ventanas, y el momento exacto que convierte un sprint perdido en una huida limpia.",
+          "href": "/guide/survive-the-hulk-how-to-escape"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores escondites",
+          "description": "Interiores conectados, salas junto a ventanas y la cobertura que de verdad te mantiene vivo hasta que acabe el tiempo.",
+          "href": "/guide/survive-the-hulk-best-hiding-spots"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Tier list de habilidades de Hulk",
+          "description": "Salto, golpe al suelo, agarre y lanzamiento, y el resto del kit del monstruo clasificado por su valor real en partida.",
+          "href": "/mechanics/survive-the-hulk-hulk-abilities"
+        },
+        {
+          "badge": "Popular",
+          "title": "Cómo conseguir el Hulkbuster",
+          "description": "Compra y equipamiento paso a paso, además de cuándo activar la armadura para no desperdiciarla.",
+          "href": "/progression/survive-the-hulk-how-to-get-hulkbuster"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Mejores personajes",
+          "description": "Arquetipos de corredor, constructor, apoyo, tanque, señuelo y explorador comparados por potencia y riesgo.",
+          "href": "/characters/survive-the-hulk-best-characters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de objetos de la tienda",
+          "description": "Movilidad, sostenibilidad, señuelos y trampas, y el orden en el que deberías comprarlos en cada ronda.",
+          "href": "/progression/survive-the-hulk-shop-items"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de controles",
+          "description": "Controles de Sobrevive al Hulk para PC, móvil, Xbox y PlayStation, además de soluciones cuando no responde el mando.",
+          "href": "/troubleshooting/survive-the-hulk-controls"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Novedades de la actualización",
+          "description": "Qué cambió en el último parche y cómo afecta al ritmo de ronda, a los escondites y al ajuste de las habilidades del Hulk.",
+          "href": "/community/survive-the-hulk-update-news"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Sobrevive al Hulk?",
+      "paragraphs": [
+        "Sobrevive al Hulk es un juego de terror y supervivencia multijugador asimétrico de Roblox. Un jugador es elegido para convertirse en el Hulk mientras el resto se esconde, escapa y corre por unas instalaciones destructibles hasta que se agota el tiempo de la ronda. El monstruo gana eliminando a todo el lobby, y los supervivientes ganan simplemente por seguir vivos cuando el tiempo llega a cero.",
+        "Las rondas premian más la planificación que los reflejos. Los supervivientes rompen la línea de visión por conductos y ventanas, gestionan una barra de resistencia que se agota y aprenden qué paredes puede destrozar el Hulk. Quien quiera contraatacar puede comprar la armadura Hulkbuster con Robux y equiparla antes de aparecer como superviviente, transformando una persecución desigual en un contraataque corto y contundente."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Terror y supervivencia asimétrico"
+        },
+        {
+          "label": "Visitas totales",
+          "value": "6,6 M+"
+        },
+        {
+          "label": "Valoración favorita",
+          "value": "81 %"
+        },
+        {
+          "label": "Jugadores activos",
+          "value": "3.990"
+        },
+        {
+          "label": "Formato de ronda",
+          "value": "Un Hulk contra los supervivientes"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Sobrevive al Hulk",
+      "description": "Todos los sistemas de Sobrevive al Hulk en un mismo sitio: rutas para principiantes, habilidades del monstruo, armadura Hulkbuster, desbloqueables, controles por plataforma y las últimas novedades.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Sobrevive al Hulk",
+          "description": "Aprende las reglas básicas de Sobrevive al Hulk, incluyendo cómo funcionan las rondas, cómo se asigna a los jugadores el papel de Hulk o de superviviente y cómo ganar con cada rol. Introduce tácticas esenciales de supervivencia, habilidades del monstruo y lo básico para usar el entorno destructible.",
+          "href": "/guide/survive-the-hulk-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprende el ciclo de ronda: un jugador es elegido como Hulk mientras el resto se esconde hasta que se agota el tiempo"
+            },
+            {
+              "label": "2",
+              "detail": "Define tu objetivo según el rol, porque el Hulk gana eliminando al lobby y los supervivientes ganan sobreviviendo"
+            },
+            {
+              "label": "3",
+              "detail": "Domina primero la resistencia, porque esprintar la consume y una barra vacía acaba con casi todas las persecuciones de novato"
+            },
+            {
+              "label": "4",
+              "detail": "Escóndete en interiores conectados con más de una salida en lugar de armarios con una sola puerta"
+            },
+            {
+              "label": "5",
+              "detail": "Rompe la línea de visión con conductos, ventanas y paredes destructibles cada vez que el Hulk se acerque"
+            },
+            {
+              "label": "6",
+              "detail": "Ponle a cada ronda un objetivo de práctica, como sobrevivir todo el tiempo sin esprintar a ciegas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Códigos y recompensas gratis de Sobrevive al Hulk",
+          "description": "Sigue los códigos canjeables y las fuentes de recompensas gratis de Sobrevive al Hulk, incluyendo qué hacer mientras no hay códigos activos y de dónde salen realmente el dinero y los cosméticos gratis.",
+          "href": "/progression/survive-the-hulk-unlockables",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sin códigos",
+              "detail": "Ahora mismo no hay códigos de Sobrevive al Hulk que funcionen, así que esta semana no se puede canjear nada"
+            },
+            {
+              "label": "Dinero gratis",
+              "detail": "Sobrevivir una ronda completa hasta el final paga más dinero y XP que cualquier otra actividad del juego"
+            },
+            {
+              "label": "Bono diario",
+              "detail": "Los objetivos diarios y la primera victoria del día suman moneda extra a lo que ya dan las rondas"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Trucos de superviviente de Sobrevive al Hulk",
+          "description": "Explica cómo los supervivientes pueden evitar al Hulk, usar escondites y conductos de ventilación, moverse por las instalaciones y cooperar con sus compañeros. Incluye estrategias prácticas de movimiento y huida para que los principiantes sobrevivan hasta el final de la ronda.",
+          "href": "/guide/survive-the-hulk-how-to-survive",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rutas",
+              "detail": "Planifica dos rutas de escape antes de que empiece la persecución y nunca esprintes en línea recta"
+            },
+            {
+              "label": "Conductos",
+              "detail": "Arrástrate por los conductos de ventilación para romper la línea de visión y reiniciar la persecución"
+            },
+            {
+              "label": "Resistencia",
+              "detail": "Esprinta a ráfagas cortas, porque una barra de resistencia vacía es lo que hace que te atrapen"
+            },
+            {
+              "label": "Sonido",
+              "detail": "Escucha los pasos y las paredes que se rompen antes de que el Hulk llegue a tu sala"
+            },
+            {
+              "label": "Dispersión",
+              "detail": "Manteneos separados para que el golpe al suelo y la palmada de choque no alcancen a todo el grupo"
+            },
+            {
+              "label": "Tiempo",
+              "detail": "Juega a ganar tiempo, porque cada segundo que sigues vivo te acerca a la victoria de los supervivientes"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Habilidades de Hulk en Sobrevive al Hulk",
+          "description": "Repasa las mecánicas de combate del Hulk, incluyendo combos de puñetazos, ataques en carrera, palmadas de trueno destructivas y la capacidad de localizar a los jugadores escondidos. Explica cómo usar estas habilidades para perseguir a los supervivientes y controlar la arena con eficacia.",
+          "href": "/mechanics/survive-the-hulk-hulk-abilities",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Salto y golpe al suelo, las mejores herramientas de persecución y control de espacio del kit del monstruo"
+            },
+            {
+              "label": "A",
+              "detail": "Agarre y lanzamiento, además de destrozar el entorno, para eliminaciones garantizadas y escondites destruidos"
+            },
+            {
+              "label": "B",
+              "detail": "Palmada de choque y escalada de furia, ambas potentes pero lentas o totalmente pasivas"
+            },
+            {
+              "label": "C",
+              "detail": "Rugido, una herramienta de información para los primeros segundos de ronda más que una fuente de daño"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía del Hulkbuster en Sobrevive al Hulk",
+          "description": "Explica cómo el Hulkbuster ayuda a los supervivientes a contraatacar con puñetazos pesados y ráfagas repulsoras. Cubre su papel en el combate, cuándo enfrentarse al Hulk y cómo equilibrar atacar con seguir con vida.",
+          "href": "/progression/survive-the-hulk-how-to-get-hulkbuster",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Abre la tienda desde el lobby o desde el menú del juego"
+            },
+            {
+              "label": "2",
+              "detail": "Busca la entrada del Hulkbuster en la sección de habilidades o de contenido premium"
+            },
+            {
+              "label": "3",
+              "detail": "Completa la compra con Robux, porque la armadura no es una recompensa de nivel ni de drop"
+            },
+            {
+              "label": "4",
+              "detail": "Equipa el Hulkbuster en tu inventario antes de entrar en una nueva ronda"
+            },
+            {
+              "label": "5",
+              "detail": "Confirma que has aparecido como superviviente, porque el Hulk no puede usar el traje"
+            },
+            {
+              "label": "6",
+              "detail": "Actívalo cuando el Hulk se comprometa en una persecución, no cuando ya estés acorralado"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Aspectos y desbloqueables de Sobrevive al Hulk",
+          "description": "Organiza en un solo lugar los aspectos de personaje disponibles, las opciones cosméticas y el contenido desbloqueable. Incluye los métodos de obtención confirmados y los requisitos de recompensa, actualizando las listas a medida que llega contenido nuevo.",
+          "href": "/characters/survive-the-hulk-character-unlocks",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Aspectos",
+              "detail": "Los aspectos de personaje son la categoría más grande y provienen de la tienda de moneda y de recompensas de nivel"
+            },
+            {
+              "label": "Utilidad",
+              "detail": "Las mejoras de supervivencia son las más importantes porque se acumulan en cada ronda que juegas"
+            },
+            {
+              "label": "Títulos",
+              "detail": "Los títulos y etiquetas se ganan con insignias de logros y aparecen junto a tu nombre"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Los aspectos y objetos exclusivos de evento son temporales y desaparecen cuando acaba el evento"
+            },
+            {
+              "label": "Estelas",
+              "detail": "Las estelas, gestos y acabados de armas son puramente cosméticos y totalmente opcionales"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de controles de Sobrevive al Hulk",
+          "description": "Ofrece una visión clara de los controles y las acciones básicas para jugar en PC, dispositivos móviles, Xbox y PlayStation. Explica el movimiento, el sprint, los escondites y las entradas de combate usando información verificada de los controles del juego en cada plataforma.",
+          "href": "/troubleshooting/survive-the-hulk-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Movimiento con teclado en PC, con el ratón controlando la cámara en todas las plataformas de Roblox"
+            },
+            {
+              "label": "Salto",
+              "detail": "Salta y trepa por bordes o ventanas para reiniciar una persecución y romper la línea de visión del Hulk"
+            },
+            {
+              "label": "Sprint",
+              "detail": "El sprint se activa con un botón y consume resistencia, así que úsalo a ráfagas en lugar de mantenerlo"
+            },
+            {
+              "label": "Interactuar",
+              "detail": "Acércate al cristal o a los objetos destructibles y usa el aviso de interacción para romperlos"
+            },
+            {
+              "label": "Atacar",
+              "detail": "La entrada de ataque del Hulk es exclusiva de ese rol y termina una persecución al instante si conecta"
+            },
+            {
+              "label": "Móvil",
+              "detail": "Los dispositivos táctiles usan un stick virtual y botones en pantalla para saltar, interactuar y atacar"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Novedades de Sobrevive al Hulk",
+          "description": "Recopila las actualizaciones importantes del juego, las funciones recién añadidas, los cambios de jugabilidad y los anuncios de la experiencia oficial de Roblox. Ayuda a los jugadores que vuelven a descubrir contenido nuevo y a comprobar si han cambiado las mecánicas, los desbloqueables o las recompensas disponibles.",
+          "href": "/community/survive-the-hulk-update-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parches",
+              "detail": "El ajuste de habilidades cambia los combos de puñetazos, los ataques en carrera y los tiempos de recarga de la palmada de trueno"
+            },
+            {
+              "label": "Balance",
+              "detail": "Las actualizaciones de ritmo de ronda cambian el equilibrio entre aguantar y correr hacia la salida"
+            },
+            {
+              "label": "Mapas",
+              "detail": "Las reglas de destrucción deciden qué paredes, puertas, ventanas y muebles puede destrozar el Hulk"
+            },
+            {
+              "label": "Conductos",
+              "detail": "Las rutas de ventilación, la velocidad de arrastre y el rango de detección se reajustan, así que vuelve a explorar las instalaciones"
+            },
+            {
+              "label": "Dispositivos",
+              "detail": "Los arreglos de paridad entre plataformas evitan que los lobbies de móvil, consola y PC se sientan injustos"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más habituales sobre Sobrevive al Hulk.",
+      "items": [
+        {
+          "question": "¿Qué es Sobrevive al Hulk?",
+          "answer": "Sobrevive al Hulk es un juego de terror y supervivencia multijugador asimétrico de Roblox. Un jugador es elegido para convertirse en el Hulk y cazar a todo el lobby, mientras el resto se esconde, escapa y trata de sobrevivir hasta que se agota el tiempo de la ronda."
+        },
+        {
+          "question": "¿Cómo se gana una ronda de Sobrevive al Hulk?",
+          "answer": "Depende de tu rol. El Hulk gana eliminando a todos los supervivientes antes de que acabe el tiempo, mientras que los supervivientes ganan simplemente por seguir vivos hasta que se agota. La superioridad numérica solo ayuda a los supervivientes si se dispersan y se comunican."
+        },
+        {
+          "question": "¿Sobrevive al Hulk tiene códigos?",
+          "answer": "Ahora mismo Sobrevive al Hulk no tiene códigos confirmados que funcionen, así que esta semana no se puede canjear nada. El dinero y los cosméticos gratis llegan por sobrevivir rondas completas, completar objetivos diarios y reclamar la primera victoria del día."
+        },
+        {
+          "question": "¿Cómo se consigue el Hulkbuster en Sobrevive al Hulk?",
+          "answer": "El Hulkbuster es una compra premium con Robux y no una recompensa de nivel o de drop. Cómpralo en la tienda, equípalo en tu inventario antes de entrar en una ronda y actívalo durante la partida mientras juegas como superviviente."
+        },
+        {
+          "question": "¿Cuál es la mejor forma de escapar del Hulk?",
+          "answer": "Planifica dos rutas antes de que empiece la persecución, esprinta a ráfagas cortas para proteger tu resistencia y usa conductos, ventanas y paredes destructibles para romper la línea de visión del Hulk. Un superviviente con un plan alternativo aguanta más que un jugador más rápido que corre a ciegas."
+        },
+        {
+          "question": "¿Sobrevive al Hulk es gratis?",
+          "answer": "Sí. Sobrevive al Hulk es gratis en Roblox, y los Robux solo hacen falta para contenido premium opcional como la armadura Hulkbuster."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para sobrevivir al Hulk?",
+      "description": "Desde tu primera ronda como superviviente hasta dominar al Hulk y al Hulkbuster, nuestra wiki comunitaria te cubre con guías gratis y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Sobrevive al Hulk",
+    "overviewDescription": "Guías de Sobrevive al Hulk para principiantes sobre escondites, huidas, farmeo de dinero y los hábitos que te mantienen vivo cuando el Hulk está cazando."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Sobrevive al Hulk",
+    "overviewDescription": "Todos los supervivientes, héroes y monstruos jugables de Sobrevive al Hulk: desbloqueos, habilidades y qué elecciones te dan mejores opciones en una ronda."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Sobrevive al Hulk",
+    "overviewDescription": "Cómo funciona realmente Sobrevive al Hulk: el medidor de furia, las habilidades del Hulk, las rutas de escape, las reglas de resistencia y las estrategias de supervivencia detrás de cada ronda."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Sobrevive al Hulk",
+    "overviewDescription": "Desbloquea el Hulkbuster, gana dinero y recorre la tienda de Sobrevive al Hulk, los objetos de Robux y todo lo desbloqueable que ofrece el juego."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de Sobrevive al Hulk",
+    "overviewDescription": "Multijugador, servidores privados y cooperativo con amigos: un repaso completo a los modos de juego de Sobrevive al Hulk y a cómo cada uno cambia la ronda."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Sobrevive al Hulk",
+    "overviewDescription": "Servidores de Discord de Sobrevive al Hulk, el subreddit y las noticias de actualización que merece la pena seguir para no perderte ningún parche, evento o personaje nuevo."
+  },
+  "troubleshooting": {
+    "overviewTitle": "Solución de problemas en Sobrevive al Hulk",
+    "overviewDescription": "Soluciona los problemas más comunes de Sobrevive al Hulk, aprende el esquema completo de controles y consigue que el juego funcione sin problemas en móvil y PC."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos y recompensas",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver recompensas y desbloqueables",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Contenido oficial",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!",
+    "noActiveCodes": "Ahora mismo no hay códigos activos",
+    "checkBackSoon": "Vuelve pronto para ver códigos nuevos"
+  },
+  "footer": {
+    "aboutTitle": "Sobrevive al Hulk Wiki",
+    "about": "Sobrevive al Hulk Wiki es un centro de guías independiente creado por fans que cubre tácticas de superviviente, habilidades del Hulk, combate con el Hulkbuster, escondites y conocimientos esenciales del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Sobrevive al Hulk Wiki. Sin afiliación con Roblox ni con los desarrolladores de Sobrevive al Hulk.",
+    "description": "Terror y supervivencia multijugador asimétrico en Roblox. Un Hulk, muchos supervivientes y huidas sin fin.",
+    "playGame": "Jugar a Sobrevive al Hulk en Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio",
+    "characterGuides": "Guías de personajes",
+    "mechanicsGuides": "Guías de mecánicas",
+    "progressionGuides": "Guías de progresión"
+  }
+}
