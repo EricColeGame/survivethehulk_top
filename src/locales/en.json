@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "mechanics": "Mechanics",
+    "progression": "Progression",
+    "modes": "Modes",
+    "community": "Community",
+    "troubleshooting": "Troubleshooting"
   },
   "home": {
     "meta": {
@@ -441,12 +448,39 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Survive The Hulk Guide",
+    "overviewDescription": "Beginner-friendly Survive The Hulk guides covering hiding spots, escapes, cash farming, and the habits that keep you alive when the Hulk is hunting."
+  },
+  "characters": {
+    "overviewTitle": "Survive The Hulk Characters",
+    "overviewDescription": "Every playable survivor, hero, and monster in Survive The Hulk - unlocks, abilities, and which picks give you the best odds in a round."
+  },
+  "mechanics": {
+    "overviewTitle": "Survive The Hulk Mechanics",
+    "overviewDescription": "How Survive The Hulk actually works: the anger meter, Hulk abilities, escape routes, stamina rules, and the survival strategies behind every round."
+  },
+  "progression": {
+    "overviewTitle": "Survive The Hulk Progression",
+    "overviewDescription": "Unlock the Hulkbuster, earn cash, and work through the Survive The Hulk shop, Robux items, and every unlockable the game has to offer."
+  },
+  "modes": {
+    "overviewTitle": "Survive The Hulk Game Modes",
+    "overviewDescription": "Multiplayer, private servers, and co-op play with friends - a full breakdown of the Survive The Hulk game modes and how each one changes the round."
+  },
+  "community": {
+    "overviewTitle": "Survive The Hulk Community",
+    "overviewDescription": "Survive The Hulk Discord servers, the subreddit, and the update news worth tracking so you never miss a patch, event, or new character drop."
+  },
+  "troubleshooting": {
+    "overviewTitle": "Survive The Hulk Troubleshooting",
+    "overviewDescription": "Fix the most common Survive The Hulk problems, learn the full control scheme, and get the game running smoothly on mobile and desktop."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "activeCodes": "Codes & Rewards",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllCodes": "View rewards and unlockables",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -470,12 +504,11 @@
     "playGame": "Play Survive The Hulk on Roblox",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Community Resources",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "characterGuides": "Character Guides",
+    "mechanicsGuides": "Mechanics Guides",
+    "progressionGuides": "Progression Guides"
   }
 }
