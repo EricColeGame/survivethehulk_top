@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Survive The Hulk Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the round loop, role objectives, and stamina rules before your first real chase as a survivor or the Hulk."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Best Characters",
+          "description": "Compare runner, builder, support, and tank role archetypes to find the survivor pick that fits how you actually play."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "How to Escape",
+          "description": "Plan two routes, break line of sight through vents and windows, and time your sprint so the Hulk never closes the gap."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "How to Get Hulkbuster",
+          "description": "Buy, equip, and time the Hulkbuster armor so your Robux turns into a real counterattack instead of a wasted round."
         }
       ]
     },
@@ -66,237 +66,339 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "How to Escape",
+        "Hulk Abilities",
+        "Best Hiding Spots"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first Survive The Hulk round, from role objectives to stamina and hiding basics.",
+          "href": "/guide/survive-the-hulk-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "How to Escape the Hulk",
+          "description": "Route planning, vent and window tricks, and the timing that turns a doomed sprint into a clean getaway.",
+          "href": "/guide/survive-the-hulk-how-to-escape"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Hiding Spots",
+          "description": "Connected interiors, window-adjacent rooms, and the cover that actually keeps you alive to the timer.",
+          "href": "/guide/survive-the-hulk-best-hiding-spots"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Hulk Abilities Tier List",
+          "description": "Leap, ground slam, grab and throw, and the rest of the monster kit ranked by live match value.",
+          "href": "/mechanics/survive-the-hulk-hulk-abilities"
+        },
+        {
+          "badge": "Popular",
+          "title": "How to Get the Hulkbuster",
+          "description": "Step-by-step purchase and equip flow, plus when to activate the armor so it is not wasted.",
+          "href": "/progression/survive-the-hulk-how-to-get-hulkbuster"
+        },
+        {
+          "badge": "New",
+          "title": "Best Characters",
+          "description": "Runner, builder, support, tank, decoy, and scout archetypes compared by strength and risk.",
+          "href": "/characters/survive-the-hulk-best-characters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Shop Items Guide",
+          "description": "Mobility, sustain, decoys, and traps, and the order you should buy them in each round.",
+          "href": "/progression/survive-the-hulk-shop-items"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Controls Guide",
+          "description": "Survive The Hulk controls for PC, mobile, Xbox, and PlayStation, plus fixes for unresponsive inputs.",
+          "href": "/troubleshooting/survive-the-hulk-controls"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update News",
+          "description": "What changed in the latest patch and how it shifts round pacing, hiding, and Hulk ability tuning.",
+          "href": "/community/survive-the-hulk-update-news"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Survive The Hulk?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Survive The Hulk is an asymmetric multiplayer survival horror game on Roblox. One player is chosen to become the Hulk while everyone else hides, escapes, and scrambles through a destructible facility until the round timer runs out. The monster wins by eliminating the lobby, and the survivors win by simply staying alive when time expires.",
+        "Rounds reward planning over reflexes. Survivors break line of sight through vents and windows, manage a draining stamina bar, and learn which walls the Hulk can smash. Players who want to fight back can buy the Hulkbuster armor with Robux and equip it before spawning as a survivor, turning a one-sided chase into a short, heavy counterattack."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Asymmetric Survival Horror"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "6.6M+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Favorite Rating",
+          "value": "81%"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Active Players",
+          "value": "3,990"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Round Format",
+          "value": "One Hulk vs Survivors"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Survive The Hulk Wiki",
+      "description": "Every Survive The Hulk system in one place: beginner routes, monster abilities, Hulkbuster armor, unlockables, platform controls, and the latest update news.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Survive The Hulk Beginner Guide",
+          "description": "Learn the core rules of Survive The Hulk, including how rounds work, how players are assigned as the Hulk or survivors, and how to win each role. Introduce essential survival tactics, monster abilities, and the basics of using the destructible environment.",
+          "href": "/guide/survive-the-hulk-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Learn the round loop: one player is picked as the Hulk while everyone else hides until the timer expires"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Set your role goal, since the Hulk wins by eliminating the lobby and survivors win by staying alive"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Master stamina first, because sprinting drains it and an empty bar ends most beginner chases"
+            },
+            {
+              "label": "4",
+              "detail": "Hide in connected interiors with more than one exit instead of single-door closets"
+            },
+            {
+              "label": "5",
+              "detail": "Break line of sight with vents, windows, and destructible walls whenever the Hulk closes in"
+            },
+            {
+              "label": "6",
+              "detail": "Give every round one practice goal, such as surviving the full timer without sprinting blindly"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Survive The Hulk Codes and Free Rewards",
+          "description": "Track redeemable codes and free reward sources for Survive The Hulk, including what to do while no codes are live and where free cash and cosmetics actually come from.",
+          "href": "/progression/survive-the-hulk-unlockables",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "No Codes",
+              "detail": "No working Survive The Hulk codes are live right now, so nothing can be redeemed this week"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Free Cash",
+              "detail": "Surviving a full round to the timer pays the highest cash and XP of any activity in the game"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Daily Bonus",
+              "detail": "Daily objectives and the first win of the day add extra currency on top of round payouts"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Survive The Hulk Survivor Tips",
+          "description": "Explain how survivors can avoid the Hulk, use hiding places and ventilation shafts, navigate the facility, and cooperate with teammates. Include practical movement and escape strategies to help beginners survive until the round ends.",
+          "href": "/guide/survive-the-hulk-how-to-survive",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Routes",
+              "detail": "Plan two escape routes before the chase starts and never sprint in a straight line"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Vents",
+              "detail": "Crawl through ventilation shafts to break line of sight and reset a chase"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Stamina",
+              "detail": "Sprint in short bursts, because a drained stamina bar is what gets survivors caught"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Sound",
+              "detail": "Listen for footsteps and breaking walls before the Hulk reaches your room"
+            },
+            {
+              "label": "Spread",
+              "detail": "Stay spread out so the ground slam and shockwave clap cannot hit the whole group"
+            },
+            {
+              "label": "Timer",
+              "detail": "Play for time, since every second you stay alive is a second closer to a survivor win"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Survive The Hulk Hulk Abilities",
+          "description": "Cover the Hulk's combat mechanics, including punch combos, sprint attacks, destructive thunder clap attacks, and the ability to locate hiding players. Explain how to use these abilities to pursue survivors and control the arena efficiently.",
+          "href": "/mechanics/survive-the-hulk-hulk-abilities",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Leap and ground slam, the best chase and space-control tools in the monster kit"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Grab and throw plus environment smashing, for guaranteed eliminations and removed hiding spots"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Shockwave clap and rage escalation, both strong but slow or entirely passive"
+            },
+            {
+              "label": "C",
+              "detail": "Roar, an information tool for the first seconds of a round rather than a damage dealer"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Survive The Hulk Hulkbuster Guide",
+          "description": "Explain how the Hulkbuster helps survivors fight back with heavy punches and repulsor blasts. Cover its role in combat, when to engage the Hulk, and how to balance attacking with staying alive.",
+          "href": "/progression/survive-the-hulk-how-to-get-hulkbuster",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Open the shop from the lobby or the in-game menu"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Find the Hulkbuster entry in the abilities or premium section"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Complete the Robux purchase, since the armor is not a level or drop reward"
+            },
+            {
+              "label": "4",
+              "detail": "Equip the Hulkbuster in your inventory before joining a new round"
+            },
+            {
+              "label": "5",
+              "detail": "Confirm you spawned as a survivor, because the Hulk cannot use the suit"
+            },
+            {
+              "label": "6",
+              "detail": "Activate it when the Hulk commits to a chase, not once you are already cornered"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Survive The Hulk Skins and Unlocks",
+          "description": "Organize available character skins, cosmetic options, and unlockable content in one place. Include confirmed acquisition methods and reward requirements, updating the listings as new content becomes available.",
+          "href": "/characters/survive-the-hulk-character-unlocks",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Skins",
+              "detail": "Character skins are the largest category and come from the currency shop and level rewards"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Utility",
+              "detail": "Survivability upgrades matter most because they compound every round you play"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Titles",
+              "detail": "Titles and tags are earned from achievement badges and appear next to your name"
+            },
+            {
+              "label": "Events",
+              "detail": "Event-exclusive skins and props are limited-time and leave when the event ends"
+            },
+            {
+              "label": "Trails",
+              "detail": "Trails, emotes, and weapon finishes are cosmetic-only and purely optional"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Survive The Hulk Controls Guide",
+          "description": "Provide a clear overview of the controls and basic actions for playing on PC, mobile devices, Xbox, and PlayStation. Explain movement, sprinting, hiding, and combat inputs using verified in-game control information for each platform.",
+          "href": "/troubleshooting/survive-the-hulk-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "Keyboard movement on PC, with the mouse handling the camera on every Roblox platform"
+            },
+            {
+              "label": "Jump",
+              "detail": "Jump and climb ledges or windows to reset a chase and break the Hulk's line of sight"
+            },
+            {
+              "label": "Sprint",
+              "detail": "Sprint is prompt-driven and drains stamina, so use short bursts instead of holding it"
+            },
+            {
+              "label": "Interact",
+              "detail": "Approach destructible glass or props, then use the interaction prompt to break them"
+            },
+            {
+              "label": "Attack",
+              "detail": "The Hulk attack input is role-only and ends a chase instantly when it connects"
+            },
+            {
+              "label": "Mobile",
+              "detail": "Touch devices use a virtual stick plus on-screen jump, interact, and attack buttons"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Survive The Hulk Update News",
+          "description": "Collect important game updates, newly introduced features, gameplay changes, and announcements from the official Roblox experience. Help returning players discover new content and check whether mechanics, unlocks, or available rewards have changed.",
+          "href": "/community/survive-the-hulk-update-news",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Ability tuning shifts punch combos, sprint attacks, and the thunder clap cooldowns"
+            },
+            {
+              "label": "Balance",
+              "detail": "Round pacing updates change the balance between stalling and running for the exit"
+            },
+            {
+              "label": "Maps",
+              "detail": "Destruction rules decide which walls, doors, windows, and furniture the Hulk can smash"
+            },
+            {
+              "label": "Vents",
+              "detail": "Vent routes, crawl speed, and detection range are re-tuned, so re-scout the facility"
+            },
+            {
+              "label": "Devices",
+              "detail": "Platform parity fixes keep mobile, console, and PC lobbies from feeling unfair"
             }
           ]
         }
@@ -304,27 +406,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Survive The Hulk.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Survive The Hulk?",
+          "answer": "Survive The Hulk is an asymmetric multiplayer survival horror game on Roblox. One player is chosen to become the Hulk and hunt the lobby, while everyone else hides, escapes, and tries to survive until the round timer expires."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you win a round of Survive The Hulk?",
+          "answer": "It depends on your role. The Hulk wins by eliminating every survivor before the timer ends, while survivors win by simply staying alive until time runs out. Numbers only help the survivors if they spread out and communicate."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Survive The Hulk have codes?",
+          "answer": "Survive The Hulk has no confirmed working codes right now, so nothing can be redeemed this week. Free cash and cosmetics come from surviving full rounds, completing daily objectives, and claiming the first win of the day."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do you get the Hulkbuster in Survive The Hulk?",
+          "answer": "The Hulkbuster is a premium Robux purchase rather than a level or drop reward. Buy it from the shop, equip it in your inventory before joining a round, and activate it during the match while playing as a survivor."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What is the best way to escape the Hulk?",
+          "answer": "Plan two routes before the chase starts, sprint in short bursts to protect your stamina, and use vents, windows, and destructible walls to break the Hulk's line of sight. A survivor with a backup plan outlasts a faster player who runs blindly."
+        },
+        {
+          "question": "Is Survive The Hulk free to play?",
+          "answer": "Yes. Survive The Hulk is free to play on Roblox, and Robux is only needed for optional premium content such as the Hulkbuster armor."
         }
       ]
     },
